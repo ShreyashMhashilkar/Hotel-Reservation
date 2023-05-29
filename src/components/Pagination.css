@@ -1,0 +1,39 @@
+/* .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    float: right;
+}
+
+.pagination button {
+
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 16px;
+
+
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: transparent;
+
+} */
+
+.pagination button.active {
+    font-weight: 900;
+
+    background: yellow;
+    color: #101010;
+}
+
+.pagination {
+    /* display: inline-block; */
+    float:right;
+}
+
+.pagination button {
+    color: rgb(0, 0, 0);
+    float: right;
+    padding: 8px 16px;
+    text-decoration: none;
+}

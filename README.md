@@ -4,11 +4,7 @@ Steps to follow:
 
 1)Run below command to install all the required libraries
 
-```
-
-npm install
-
-```
+```npm install```
 
 2)Run the below command to start the project
 
